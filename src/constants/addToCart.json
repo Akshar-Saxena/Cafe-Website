@@ -1,0 +1,58 @@
+[
+    {
+      "id": "coffee1.png",
+      "desc": "Cappuccino",
+      "price": "9.99$",
+      "details": "Dark, rich espresso lies in wait under a smoothed and stretched layer of thick foam. It's truly the height of our baristas' craft. Energy per serving size - Hot - Short (237ml) 103.8 kcal / Tall (354ml) - 103.8 kcal / Grande (473ml) - 173 kcal / Venti (591ml) 220.18 kcal. Allergen - Contains Milk. An average active adult requires 2000 kcal energy per day, however, calorie needs may vary.",
+      "count": 0
+    },
+    {
+      "id": "coffee2.png",
+      "desc": "Caffe Latte",
+      "price": "29.01$",
+      "details": "Glazed ceramic plates with a small rim. Height approx. 2 cm, diameter at the top 14 cm.",
+      "count": 0
+    },
+    {
+      "id": "coffee3.png",
+      "desc": "Caffe Americano",
+      "price": "99.9$",
+      "details": "A square clear box is a transparent, four-sided container with see-through walls, often made of glass, allowing easy visibility of its contents.",
+      "count": 0
+    },
+    {
+      "id": "coffee4.png",
+      "desc": "Flat White",
+      "price": "199.9$",
+      "details": "A metal wire basket is a sturdy container constructed from interwoven metal wires, forming an open, breathable structure ideal for storage and organization.",
+      "count": 0
+    },
+    {
+      "id": "coffee5.png",
+      "desc": "Hazelnut Caffe Latte",
+      "price": "149.9$",
+      "details": "A large clear glass box is a spacious, transparent container made of glass, with four see-through sides, typically used for displaying or storing items while providing a clear view of its contents.",
+      "count": 0
+    },
+    {
+      "id": "coffee6.png",
+      "desc": "Vanilla Caffe Latte",
+      "price": "49.9$",
+      "details": "A round jute placemat is a circular dining accessory made from natural jute fibers, adding a rustic and eco-friendly touch to table settings while protecting surfaces.",
+      "count": 0
+    },
+    {
+      "id": "coffee7.png",
+      "desc": "White Chocolate Mocha",
+      "price": "199.9$",
+      "details": "A metal wire basket is a sturdy container constructed from interwoven metal wires, forming an open, breathable structure ideal for storage and organization.",
+      "count": 0
+    },
+    {
+      "id": "coffee8.png",
+      "desc": "Caffè Mocha",
+      "price": "199.9$",
+      "details": "A metal wire basket is a sturdy container constructed from interwoven metal wires, forming an open, breathable structure ideal for storage and organization.",
+      "count": 0
+    }
+  ]
